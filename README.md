@@ -192,4 +192,7 @@ Released under [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) - T
 🌠 *"The universe came, saw, and conquered... through math."* 🌠
 
 **Experience the complete 4-day journey. Follow the path. Achieve cosmic satisfaction.**
+
+[![Sponsor](https://img.shields.io/badge/Sponsor-Jon%20Poplett-purple?style=for-the-badge&logo=github)](https://github.com/sponsors/jgptech)
+
 ```
